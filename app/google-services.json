@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1043354019492",
+    "firebase_url": "https://assignmentapp-251ae.firebaseio.com",
+    "project_id": "assignmentapp-251ae",
+    "storage_bucket": "assignmentapp-251ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043354019492:android:e8daa5c458807857",
+        "android_client_info": {
+          "package_name": "com.grandmint.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043354019492-bt8g388utjreetrik27jmvotb44imh75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grandmint.assignment",
+            "certificate_hash": "8248248d2e6a360331122f5e7633cdb26e844062"
+          }
+        },
+        {
+          "client_id": "1043354019492-mof3rnh9vqscn4q8uji59n4r55ma40t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAj7eqUz2i8UY9BbwQDhUMKTlRFKIDmSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043354019492-mof3rnh9vqscn4q8uji59n4r55ma40t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
